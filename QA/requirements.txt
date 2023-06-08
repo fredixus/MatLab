@@ -3,3 +3,13 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+pyodbc
+pandas
+requests
+numpy
+
+azure-storage-blob==12.2.0
+azure-cli-core==2.24.0
+azure-core==1.19.1
+azure-keyvault-secrets==4.3.0
+azure-identity==1.6.0
